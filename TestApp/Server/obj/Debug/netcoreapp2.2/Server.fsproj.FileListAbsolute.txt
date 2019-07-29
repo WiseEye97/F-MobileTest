@@ -1,0 +1,8 @@
+F:\MobileDev\TestApp\Server\bin\Debug\netcoreapp2.2\Server.deps.json
+F:\MobileDev\TestApp\Server\bin\Debug\netcoreapp2.2\Server.runtimeconfig.json
+F:\MobileDev\TestApp\Server\bin\Debug\netcoreapp2.2\Server.runtimeconfig.dev.json
+F:\MobileDev\TestApp\Server\bin\Debug\netcoreapp2.2\Server.dll
+F:\MobileDev\TestApp\Server\obj\Debug\netcoreapp2.2\Server.fsprojAssemblyReference.cache
+F:\MobileDev\TestApp\Server\obj\Debug\netcoreapp2.2\Server.fsproj.CoreCompileInputs.cache
+F:\MobileDev\TestApp\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfoInputs.cache
+F:\MobileDev\TestApp\Server\obj\Debug\netcoreapp2.2\Server.AssemblyInfo.fs

@@ -1,0 +1,9 @@
+f:\MobileDev\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.deps.json
+f:\MobileDev\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.dll
+f:\MobileDev\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.pdb
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.fsprojAssemblyReference.cache
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfoInputs.cache
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfo.fs
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\XamlC.stamp
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.dll
+f:\MobileDev\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.pdb
